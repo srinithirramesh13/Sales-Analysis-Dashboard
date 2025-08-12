@@ -65,4 +65,13 @@ A professional and interactive **Sales Dashboard** that visualizes key business 
 │ └── insights_summary.pdf
 └── README.md
 
+🙌 Closing Note
+Thank you for taking the time to check out my project!
+I truly appreciate your interest and hope you find the dashboard both insightful and engaging.
+My goal was to create a clear, interactive view of the data that makes exploring trends and patterns both easy and enjoyable.
+Your feedback or thoughts are always welcome as they help me improve and grow.
 
+📩 Contact
+Email: srinithirramesh13@gmail.com
+
+GitHub: srinithirramesh13
